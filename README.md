@@ -1,6 +1,6 @@
 # Object2Css
 
-This package Converts JS Objects to Css Styles
+This package to Converts JS Objects into Css Styles
 
 
 ```js
